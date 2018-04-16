@@ -1,0 +1,19 @@
+<?xml version ="1.0" ?>
+<resources>
+    <string name="app_name">GoTV2</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="q1">King Tommen\'s cat\'s name was Ser Ponce</string>
+    <string name="q2">The name of the insurgent group who fight against Daenerys\' rule in Meereen are Sons of the Meereen</string>
+    <string name="q3">The battle between Jon Snow and Ramsay Bolton is known as the Battle of the Bastards</string>
+    <string name="q4">What type of cake Sansa Stark is especially fond of is lemon</string>
+    <string name="q5">The final line of Tyrion\'s speech at the Blackwater was : Hey, Ho! Let\'s go!</string>
+    <string name="q6">Gendry\'s chosen weapon is a sword</string>
+    <string name="q7">The name of the song that famously accompanies the Red Wedding is The Rains of Casamere</string>
+    <string name="q8">The seat of House Lannister is The Red Keep.</string>
+    <string name="q9">Samwell Tarly\'s brother is named Rickon</string>
+    <string name="q10">The character responsible for resurrecting Beric Dondarrion is Thoros of Myr</string>
+    <string name="q11">The High Sparrow\'s previous profession was a farmer</string>
+    <string name="q12">Daenerys Targaryen eventually hatches her dragon eggs at a bonfire.</string>
+    <string name="q13">The phrase \'Valar Morghulis\' means \'all men must serve\'</string>
+</resources>
